@@ -11,4 +11,4 @@ function symmetry(arr){
         else return 0;
     }
 
-console.log(symmetry([1,2,3,3,5,1]));
+console.log(symmetry([1,2,3,2,1]));
